@@ -1,0 +1,4 @@
+include ':sdk_pos_otc_2'
+include ':sdk_pos_otc'
+include ':app'
+rootProject.name = "DemoCulqiOtc"
